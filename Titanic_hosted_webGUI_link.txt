@@ -1,0 +1,6 @@
+Name: Kolawole Ayomikun
+Matric Number: 22CD032156
+Machine Learning Algorithm Used: Logistic Regression
+Model Persistence Method: Joblib
+Live URL: https://your-render-app.onrender.com
+GitHub Repository: https://github.com/USERNAME/Titanic_Project_Ayo_YourMatricNo
