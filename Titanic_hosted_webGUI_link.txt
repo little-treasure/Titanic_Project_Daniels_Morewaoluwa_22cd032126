@@ -2,5 +2,5 @@ Name: Daniels Morewaoluwa
 Matric Number: 22CD032126
 Machine Learning Algorithm Used: Logistic Regression
 Model Persistence Method: Joblib
-Live URL: 
+Live URL: https://titanic-project-c71i.onrender.com
 GitHub Repository: https://github.com/little-treasure/Titanic_Project_Daniels_Morewaoluwa_22cd032126
