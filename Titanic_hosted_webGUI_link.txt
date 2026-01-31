@@ -1,6 +1,6 @@
-Name: Kolawole Ayomikun
-Matric Number: 22CD032156
+Name: Daniels Morewaoluwa 
+Matric Number: 22CD032126
 Machine Learning Algorithm Used: Logistic Regression
 Model Persistence Method: Joblib
-Live URL: hhttps://titanic-project-kolawole-ayomikun.onrender.com
-GitHub Repository: git remote add origin https://github.com/Dayomikun1/Titanic_Project_Kolawole-Ayomikun_22CD032156.git
+Live URL: 
+GitHub Repository: 
